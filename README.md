@@ -21,7 +21,7 @@ Step 5: Print L and U matrix
 ## Program:
 (i) To find the L and U matrix
 ```python
-/*
+
 #Program to find the L and U matrix.
 #Developed by: vinushcv
 #RegisterNumber: 22001897
@@ -34,7 +34,7 @@ P,L,U=lu(A)
 print(L)
 print(U)
 
-*/
+
 ```
 (ii) To find the LU Decomposition of a matrix
 ```python
